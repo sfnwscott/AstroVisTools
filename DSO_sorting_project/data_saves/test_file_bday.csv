@@ -1,0 +1,7 @@
+,ObjectNum,Name,Type,Constellation,Magnitude,Size,RAHour,RAMinute,DecSign,DecDeg,DecMinute,Distance (ly),Above_Horizon,Alt,Az,Rise,Set,Hours_Until_Set
+0,NGC 246,NGC 246,Planetary Nebula,Cetus,8.0,3.8,0,47.0,-,11,53,,True,29.13,215.04,13h38m,0h20m,2.33
+11,NGC 7023,NGC 7023,Cluster Nebulosity,Cepheus,7.0,18.0,21,0.5,+,68,10,,True,39.45,331.27,---,---,---
+13,M27,NGC 6853 Dumbbell Nebula,Planetary Nebula,Vulpecula,7.4,8.0,19,59.6,+,22,43.0,"1,250",True,6.34,295.17,6h39m,21h41m,23.68
+18,Mars,Mars,Planet,---,-0.03,0.16,---,---,---,---,---,0.0,True,33.24,233.43,12h10m,0h14m,2.23
+20,Saturn,Saturn,Planet,---,-0.34,0.8,---,---,---,---,---,0.0,True,37.31,92.57,17h27m,8h29m,10.48
+21,Uranus,Uranus,Planet,---,5.95,0.22,---,---,---,---,---,0.0,True,5.65,247.91,11h01m,21h35m,23.58

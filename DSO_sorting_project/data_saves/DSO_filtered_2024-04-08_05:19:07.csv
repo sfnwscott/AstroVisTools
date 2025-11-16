@@ -1,0 +1,58 @@
+,ObjectNum,Name,Type,Constellation,Magnitude,Size,RAHour,RAMinute,DecSign,DecDeg,DecMinute,Distance (ly),Above_Horizon,Alt,Az,Rise,Set,Hours_Until_Set
+0,MNGC 129,NGC 129,Open Cluster,Cassiopeia,6.5,21.0,0,29.9,+,60,14.0,,True,43.38,40.72,---,---,---
+1,MNGC 225,NGC 225,Open Cluster,Cassiopeia,7.0,12.0,0,43.4,+,61,47.0,,True,42.1,38.17,---,---,---
+4,MNGC 457,NGC 457,Open Cluster,Cassiopeia,6.4,13.0,1,19.1,+,58,20.0,,True,36.77,40.7,---,---,---
+5,MNGC 654,NGC 654,Open Cluster,Cassiopeia,6.5,5.0,1,44.1,+,61,53.0,,True,35.4,35.12,---,---,---
+6,MNGC 663,NGC 663,Open Cluster,Cassiopeia,7.1,16.0,1,46.0,+,61,15.0,,True,34.9,35.71,---,---,---
+7,MNGC 1027,NGC 1027,Open Cluster,Cassiopeia,6.7,20.0,2,42.7,+,61,33.0,,True,29.27,31.3,---,---,---
+8,MNGC 1342,NGC 1342,Open Cluster,Perseus,6.7,14.0,3,31.6,+,37,20.0,,True,7.14,44.41,6h15m,0h16m,-5.05
+9,MNGC 1444,NGC 1444,Open Cluster,Perseus,6.6,4.0,3,49.4,+,52,40.0,,True,16.62,31.82,---,---,---
+10,MNGC 1502,NGC 1502,Open Cluster,Camelopardalis,5.7,8.0,4,7.7,+,62,20.0,,True,22.45,23.21,---,---,---
+11,MNGC 1528,NGC 1528,Open Cluster,Perseus,6.4,24.0,4,15.4,+,51,14.0,,True,13.04,29.48,---,---,---
+12,MNGC 1545,NGC 1545,Open Cluster,Perseus,6.2,18.0,4,20.9,+,50,15.0,,True,11.75,29.31,---,---,---
+73,MNGC 6242,NGC 6242,Open Cluster,Scorpius,6.4,9.0,16,55.6,-,39,30.0,,True,1.1,209.75,1h46m,7h32m,2.21
+75,MNGC 6322,NGC 6322,Open Cluster,Scorpius,6.0,10.0,17,18.5,-,42,57.0,,True,0.1,204.36,2h44m,7h21m,2.03
+78,MNGC 6416,NGC 6416,Open Cluster,Scorpius,5.7,18.0,17,44.4,-,32,21.0,,True,11.36,203.74,1h44m,9h12m,3.88
+79,MNGC 6425,NGC 6425,Open Cluster,Scorpius,7.2,8.0,17,46.9,-,31,32.0,,True,12.33,203.5,1h41m,9h20m,4.01
+80,MNGC 6441,NGC 6441,Globular Cluster,Scorpius,7.4,7.8,17,50.2,-,37,3.0,,True,7.42,200.94,2h21m,8h47m,3.46
+81,MNGC 6530,NGC 6530,Open Cluster,Sagittarius,4.6,15.0,18,4.8,-,24,20.0,,True,20.35,202.15,1h22m,10h14m,4.91
+82,MNGC 6595,NGC 6595,Open Cluster,Sagittarius,7.0,11.0,18,17.0,-,19,53.0,,True,25.47,200.59,1h14m,10h47m,5.46
+83,MNGC 6709,NGC 6709,Open Cluster,Aquila,6.7,13.0,18,51.5,+,10,21.0,,True,56.8,200.48,23h50m,13h14m,7.91
+84,MNGC 6716,NGC 6716,Open Cluster,Sagittarius,6.9,7.0,18,54.6,-,19,53.0,,True,27.37,190.96,1h51m,11h24m,6.08
+85,MNGC 6723,NGC 6723,Globular Cluster,Sagittarius,7.3,11.0,18,59.6,-,36,38.0,,True,10.99,187.39,3h27m,9h59m,4.66
+87,MNGC 6755,NGC 6755,Open Cluster,Aquila,7.5,15.0,19,7.8,+,4,14.0,,True,51.73,191.46,0h33m,13h08m,7.81
+88,MNGC 6811,NGC 6811,Open Cluster,Cygnus,6.8,13.0,19,38.2,+,46,34.0,,True,85.62,1.41,20h16m,18h20m,13.01
+89,MNGC 6819,NGC 6819,Open Cluster,Cygnus,7.3,5.0,19,41.3,+,40,11.0,,True,87.97,153.5,21h56m,16h48m,11.48
+90,MNGC 6823,NGC 6823,Open Cluster,Vulpecula,7.1,12.0,19,43.1,+,23,18.0,,True,71.24,175.14,23h48m,15h00m,9.68
+91,MNGC 6871,NGC 6871,Open Cluster,Cygnus,5.2,20.0,20,5.9,+,35,47.0,,True,81.55,134.93,22h58m,16h35m,11.26
+92,MNGC 6885,NGC 6885,Open Cluster,Vulpecula,6.0,7.0,20,12.0,+,26,29.0,,True,72.86,151.97,0h05m,15h44m,10.41
+93,MNGC 6910,NGC 6910,Open Cluster,Cygnus,7.4,8.0,20,23.1,+,40,47.0,,True,81.19,94.02,22h32m,17h36m,12.28
+94,MNGC 7023,NGC 7023,Cluster Nebulosity,Cepheus,7.0,18.0,21,0.5,+,68,10.0,,True,61.51,16.25,---,---,---
+95,MNGC 7063,NGC 7063,Open Cluster,Cygnus,7.0,8.0,21,24.4,+,36,30.0,,True,68.51,95.78,0h15m,17h59m,12.66
+96,MNGC 7082,NGC 7082,Open Cluster,Cygnus,7.2,25.0,21,29.4,+,47,5.0,,True,69.42,65.82,21h33m,20h46m,15.45
+97,MNGC 7160,NGC 7160,Open Cluster,Cepheus,6.1,7.0,21,53.7,+,62,36.0,,True,61.26,32.43,---,---,---
+98,MNGC 7209,NGC 7209,Open Cluster,Lacerta,6.7,25.0,22,5.2,+,46,30.0,,True,63.29,67.43,22h38m,20h52m,15.55
+99,MNGC 7243,NGC 7243,Open Cluster,Lacerta,6.4,21.0,22,15.3,+,49,53.0,,True,61.71,59.93,---,---,---
+100,MNGC 7380,NGC 7380,Cluster Nebulosity,Cepheus,7.2,25.0,22,47.0,+,58,6.0,,True,56.36,44.64,---,---,---
+101,MNGC 7686,NGC 7686,Open Cluster,Andromeda,5.6,15.0,23,30.2,+,49,8.0,,True,49.64,58.99,---,---,---
+102,MNGC 7789,NGC 7789,Open Cluster,Cassiopeia,6.7,16.0,23,57.0,+,56,44.0,,True,46.94,46.69,---,---,---
+103,MM2,NGC 7089  ,Globular Cluster,Aquarius,6.5,12.9,21,33.5,-,0,49.0,"37,500",True,39.73,140.46,3h17m,15h16m,9.95
+104,MM3,NGC 5272  ,Globular Cluster,Canes Venatici,6.2,16.2,13,42.2,+,28,23.0,"33,900",True,19.56,290.89,17h23m,9h25m,4.1
+105,MM6,NGC 6405 Butterfly Cluster,Open Cluster,Scorpius,5.3,25.0,17,40.1,-,32,13.0,"2,000",True,11.16,204.58,1h39m,9h09m,3.83
+106,MM11,NGC 6705 Wild Duck Cluster,Open Cluster,Scutum,6.3,14.0,18,51.1,-,6,16.0,"6,000",True,40.64,194.8,0h55m,12h14m,6.91
+107,MM13,NGC 6205 Hercules Globular Cluster,Globular Cluster,Hercules,5.8,16.6,16,41.7,+,36,28.0,"22,800",True,56.07,275.23,19h30m,13h15m,7.93
+108,MM15,NGC 7078  ,Globular Cluster,Pegasus,6.2,12.3,21,30.0,+,12,10.0,"33,600",True,51.3,131.92,2h25m,16h00m,10.68
+109,MM17,"NGC 6618 Omega, Swan, Horseshoe Nebula",Diffuse Nebula,Sagittarius,7.0,11.0,18,20.8,-,16,11.0,"5,000",True,29.28,200.78,1h02m,11h06m,5.78
+110,MM18,NGC 6613  ,Open Cluster,Sagittarius,7.5,9.0,18,19.9,-,17,8.0,"4,900",True,28.33,200.7,1h05m,11h01m,5.7
+111,MM21,NGC 6531  ,Open Cluster,Sagittarius,6.5,13.0,18,4.6,-,22,30.0,"4,250",True,22.1,202.85,1h13m,10h23m,5.06
+112,MM22,NGC 6656  ,Globular Cluster,Sagittarius,5.1,24.0,18,36.4,-,23,54.0,"10,100",True,22.67,194.73,1h51m,10h48m,5.48
+113,MM27,NGC 6853 Dumbbell Nebula,Planetary Nebula,Vulpecula,7.4,8.0,19,59.6,+,22,43.0,"1,250",True,70.13,164.05,0h11m,15h14m,9.91
+114,MM28,NGC 6626  ,Globular Cluster,Sagittarius,6.8,11.2,18,24.5,-,24,52.0,"17,900",True,21.12,197.33,1h44m,10h32m,5.21
+115,MM29,NGC 6913  ,Open Cluster,Cygnus,7.1,7.0,20,23.9,+,38,32.0,"4,000",True,80.33,107.05,22h54m,17h15m,11.93
+116,MM30,NGC 7099  ,Globular Cluster,Capricornus,7.2,11.0,21,40.4,-,23,11.0,"24,800",True,18.86,149.88,4h51m,13h56m,8.61
+120,MM52,NGC 7654  ,Open Cluster,Cassiopeia,7.3,13.0,23,24.2,+,61,35.0,"5,000",True,51.36,39.56,---,---,---
+121,MM55,NGC 6809  ,Globular Cluster,Sagittarius,6.3,19.0,19,40.0,-,30,58.0,"16,600",True,17.08,179.07,3h30m,11h16m,5.95
+122,MM80,NGC 6093  ,Globular Cluster,Scorpius,7.3,8.9,16,17.0,-,22,59.0,"27,400",True,10.43,225.53,23h24m,8h33m,3.23
+123,MM81,NGC 3031 Bode¹s Galaxy,Spiral Galaxy,Ursa Major,6.9,21.0,9,55.6,+,69,4.0,"12,000,000",True,24.05,346.95,---,---,---
+124,MM92,NGC 6341  ,Globular Cluster,Hercules,6.4,11.2,17,17.1,+,43,8.0,"26,400",True,64.49,284.25,18h59m,14h57m,9.63
+126,MM103,NGC 581,Open Cluster,Cassiopeia,7.4,6.0,1,33.2,+,60,42.0,"8,000",True,36.07,37.15,---,---,---

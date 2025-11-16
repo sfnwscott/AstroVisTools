@@ -1,0 +1,8 @@
+,ObjectNum,Name,Type,Constellation,Magnitude,Size,RAHour,RAMinute,DecSign,DecDeg,DecMinute,Distance (ly),Above_Horizon,Alt,Az,Rise,Set,Hours_Until_Set
+9,NGC 6231,NGC 6231,Cluster Nebulosity,Scorpius,2.6,15.0,16,54.0,-,41,48,,True,5.01,168.14,0h33m,5h34m,3.57
+10,NGC 7009,NGC 7009,Planetary Nebula,Aquarius,8.0,1.7,21,4.2,-,11,22,,True,1.28,106.11,1h52m,12h33m,10.55
+11,NGC 7023,NGC 7023,Cluster Nebulosity,Cepheus,7.0,18.0,21,0.5,+,68,10,,True,43.01,29.64,---,---,---
+12,M17,"NGC 6618 Omega, Swan, Horseshoe Nebula",Diffuse Nebula,Sagittarius,7.0,11.0,18,20.8,-,16,11.0,"5,000",True,22.31,140.77,23h24m,9h32m,7.53
+13,M27,NGC 6853 Dumbbell Nebula,Planetary Nebula,Vulpecula,7.4,8.0,19,59.6,+,22,43.0,"1,250",True,35.41,90.07,22h33m,13h39m,11.65
+14,M83,NGC 5236 Southern Pinwheel Galaxy,Spiral Galaxy,Hydra,7.6,11.0,13,37.0,-,29,52.0,"15,000,000",True,11.73,209.13,19h45m,3h45m,1.75
+15,M104,NGC 4594 Sombrero Galaxy,Spiral Galaxy,Virgo,8.0,9.0,12,40.0,-,11,37.0,"50,000,000",True,20.7,230.69,17h27m,4h09m,2.15

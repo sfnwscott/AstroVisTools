@@ -1,0 +1,8 @@
+,ObjectNum,Name,Type,Constellation,Magnitude,Size,RAHour,RAMinute,DecSign,DecDeg,DecMinute,Distance (ly),Above_Horizon,Alt,Az,Rise,Set,Hours_Until_Set
+1,NGC 2467,NGC 2467,Cluster Nebulosity,Puppis,7.0,16.0,7,52.6,-,26,23,,True,8.71,221.91,15h01m,23h33m,1.1
+2,NGC 2579,NGC 2579,Cluster Nebulosity,Puppis,7.5,10.0,8,21.1,-,36,11,,True,3.58,211.56,16h27m,23h04m,0.62
+3,NGC 3132,NGC 3132,Planetary Nebula,Vela,8.0,0.8,10,7.0,-,40,26,,True,6.56,190.56,18h48m,0h19m,1.87
+11,NGC 7023,NGC 7023,Cluster Nebulosity,Cepheus,7.0,18.0,21,0.5,+,68,10,,True,22.68,11.73,---,---,---
+14,M83,NGC 5236 Southern Pinwheel Galaxy,Spiral Galaxy,Hydra,7.6,11.0,13,37.0,-,29,52.0,"15,000,000",True,9.7,146.67,21h04m,5h03m,6.6
+15,M104,NGC 4594 Sombrero Galaxy,Spiral Galaxy,Virgo,8.0,9.0,12,40.0,-,11,37.0,"50,000,000",True,31.71,151.58,18h45m,5h27m,7.0
+23,Moon,Moon,Moon,---,-8.87,31.58,---,---,---,---,---,0.0,True,21.11,288.6,8h26m,---,---

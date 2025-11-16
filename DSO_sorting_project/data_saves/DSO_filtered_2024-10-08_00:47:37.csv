@@ -1,0 +1,23 @@
+,ObjectNum,Name,Type,Constellation,Magnitude,Size,RAHour,RAMinute,DecSign,DecDeg,DecMinute,Distance (ly),Above_Horizon,Alt,Az,Rise,Set,Hours_Until_Set
+0,NGC 55,NGC 55,Galaxy,Sculptor,8.0,32.0,0,14.9,-,39,11,,True,8.21,189.68,20h57m,2h55m,2.13
+1,NGC 246,NGC 246,Planetary Nebula,Cetus,8.0,3.8,0,47.0,-,11,53,,True,36.08,185.26,19h07m,5h49m,5.03
+2,NGC 253,NGC 253,Galaxy,Sculptor,7.1,25.0,0,47.6,-,25,17,,True,22.71,184.14,20h04m,4h53m,4.1
+3,NGC 281,NGC 281,Cluster Nebulosity,Cassiopeia,7.0,35.0,0,52.8,+,56,37,,True,75.24,353.64,---,---,---
+6,NGC 2403,NGC 2403,Galaxy,Camelopardalis,8.4,17.0,7,36.9,+,65,36,,True,34.43,29.76,---,---,---
+17,NGC 7009,NGC 7009,Planetary Nebula,Aquarius,8.0,1.7,21,4.2,-,11,22,,True,13.53,240.89,15h23m,2h08m,1.35
+18,NGC 7023,NGC 7023,Cluster Nebulosity,Cepheus,7.0,18.0,21,0.5,+,68,10,,True,49.11,330.37,---,---,---
+19,NGC 7380,NGC 7380,Cluster Nebulosity,Cepheus,7.2,25.0,22,47.0,+,58,6,,True,63.16,318.93,---,---,---
+20,M1,NGC 1952 Crab Nebula,Supernova Remnant,Taurus,8.4,6.0,5,34.5,+,22,1.0,"6,300",True,30.94,87.21,21h45m,12h45m,11.97
+23,M27,NGC 6853 Dumbbell Nebula,Planetary Nebula,Vulpecula,7.4,8.0,19,59.6,+,22,43.0,"1,250",True,25.01,278.94,12h07m,3h14m,2.45
+24,M32,NGC 221 Satellite of M31,Elliptical Galaxy,Andromeda,8.1,8.0,0,42.7,+,40,52.0,"2,900,000",True,85.82,257.16,14h50m,9h57m,9.17
+28,M78,NGC 2068,Diffuse Nebula,Orion,8.3,8.0,5,46.7,+,0,3.0,"1,600",True,14.37,103.26,23h23m,11h31m,10.73
+29,M81,NGC 3031 Bode¹s Galaxy,Spiral Galaxy,Ursa Major,6.9,21.0,9,55.6,+,69,4.0,"12,000,000",True,26.35,17.06,---,---,---
+30,M82,NGC 3034 Cigar Galaxy,Irregular Galaxy,Ursa Major,8.4,9.0,9,55.8,+,69,41.0,"12,000,000",True,26.82,16.61,---,---,---
+33,M101,NGC 5457 Pinwheel Galaxy,Spiral Galaxy,Ursa Major,7.9,22.0,14,3.2,+,54,21.0,"27,000,000",True,7.22,351.47,---,---,---
+35,M106,NGC 4258,Spiral Galaxy,Canes Venatici,8.4,19.0,12,19.0,+,47,18.0,"25,000,000",True,0.3,7.71,0h29m,23h30m,22.72
+36,M110,NGC 205 Satellite of M31,Elliptical Galaxy,Andromeda,8.5,17.0,0,40.4,+,41,41.0,"2,900,000",True,85.54,268.96,14h38m,10h04m,9.28
+39,Mars,Mars,Planet,---,0.39,0.13,---,---,---,---,---,0.0,True,12.5,70.32,23h28m,14h34m,13.78
+40,Jupiter,Jupiter,Planet,---,-2.52,0.72,---,---,---,---,---,0.0,True,33.7,89.04,21h29m,12h33m,11.77
+41,Saturn,Saturn,Planet,---,0.69,0.73,---,---,---,---,---,0.0,True,32.46,216.39,17h10m,4h17m,3.5
+42,Uranus,Uranus,Planet,---,5.68,0.24,---,---,---,---,---,0.0,True,50.56,113.61,20h00m,10h34m,9.78
+43,Neptune,Neptune,Planet,---,7.69,0.1,---,---,---,---,---,0.0,True,43.14,204.59,17h38m,5h31m,4.73

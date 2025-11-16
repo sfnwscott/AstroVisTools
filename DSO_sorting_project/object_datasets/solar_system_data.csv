@@ -1,0 +1,9 @@
+ObjectNum,Name,Type,Constellation,Magnitude,Size,RAHour,RAMinute,DecSign,DecDeg,DecMinute,Distance (ly),Full_Name
+Mercury,Mercury,Planet,---,,,---,---,---,---,---,,Mercury
+Venus,Venus,Planet,---,,,---,---,---,---,---,,Venus
+Mars,Mars,Planet,---,,,---,---,---,---,---,,Mars
+Jupiter,Jupiter,Planet,---,,,---,---,---,---,---,,Jupiter
+Saturn,Saturn,Planet,---,,,---,---,---,---,---,,Saturn
+Uranus,Uranus,Planet,---,,,---,---,---,---,---,,Uranus
+Neptune,Neptune,Planet,---,,,---,---,---,---,---,,Neptune
+Moon,Moon,Moon,---,,,---,---,---,---,---,,Moon

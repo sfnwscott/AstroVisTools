@@ -1,0 +1,4 @@
+,ObjectNum,Name,Type,Constellation,Magnitude,Size,RAHour,RAMinute,DecSign,DecDeg,DecMinute,Distance (ly),Above_Horizon,Alt,Az,Rise,Set,Hours_Until_Set
+1,NGC 2579,NGC 2579,Cluster Nebulosity,Puppis,7.5,10.0,8,21.1,-,36,11,,True,11.65,177.14,16h35m,23h12m,3.54
+2,NGC 3132,NGC 3132,Planetary Nebula,Vela,8.0,0.8,10,7.0,-,40,26,,True,3.25,157.62,18h56m,0h27m,4.79
+10,M104,NGC 4594 Sombrero Galaxy,Spiral Galaxy,Virgo,8.0,9.0,12,40.0,-,11,37.0,"50,000,000",True,7.69,113.38,18h53m,5h35m,9.92

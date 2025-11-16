@@ -1,0 +1,10 @@
+,ObjectNum,Name,Type,Constellation,Magnitude,Size,RAHour,RAMinute,DecSign,DecDeg,DecMinute,Distance (ly),Above_Horizon,Alt,Az,Rise,Set,Hours_Until_Set
+2,NGC 2467,NGC 2467,Cluster Nebulosity,Puppis,7.0,16.0,7.0,52.6,-,26.0,23.0,,True,8.34,222.47,15h17m,23h49m,1.05
+3,NGC 2579,NGC 2579,Cluster Nebulosity,Puppis,7.5,10.0,8.0,21.1,-,36.0,11.0,,True,3.3,212.09,16h43m,23h20m,0.57
+4,NGC 3132,NGC 3132,Planetary Nebula,Vela,8.0,0.8,10.0,7.0,-,40.0,26.0,,True,6.46,191.12,19h04m,0h35m,1.82
+12,NGC 7023,NGC 7023,Cluster Nebulosity,Cepheus,7.0,18.0,21.0,0.5,+,68.0,10.0,,True,22.8,12.0,---,---,---
+13,NGC 7380,NGC 7380,Cluster Nebulosity,Cepheus,7.2,25.0,22.0,47.0,+,58.0,6.0,,True,10.47,2.44,---,---,---
+16,M81,NGC 3031 Bode¹s Galaxy,Spiral Galaxy,Ursa Major,6.9,21.0,9.0,55.6,+,69.0,4.0,"12,000,000",True,61.64,347.06,---,---,---
+17,M83,NGC 5236 Southern Pinwheel Galaxy,Spiral Galaxy,Hydra,7.6,11.0,13.0,37.0,-,29.0,52.0,"15,000,000",True,10.0,147.25,21h19m,5h19m,6.55
+18,M101,NGC 5457 Pinwheel Galaxy,Spiral Galaxy,Ursa Major,7.9,22.0,14.0,3.2,+,54.0,21.0,"27,000,000",True,58.62,51.73,---,---,---
+19,M104,NGC 4594 Sombrero Galaxy,Spiral Galaxy,Virgo,8.0,9.0,12.0,40.0,-,11.0,37.0,"50,000,000",True,31.97,152.39,19h01m,5h43m,6.96

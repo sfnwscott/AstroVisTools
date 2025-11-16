@@ -1,0 +1,17 @@
+,ObjectNum,Name,Type,Constellation,Magnitude,Size,RAHour,RAMinute,DecSign,DecDeg,DecMinute,Distance (ly),Above_Horizon,Alt,Az,Rise,Set,Hours_Until_Set
+3,NGC 281,NGC 281,Cluster Nebulosity,Cassiopeia,7.0,35.0,0,52.8,+,56,37,,True,10.08,10.24,---,---,---
+14,NGC 5128,NGC 5128,Galaxy,Centaurus,7.0,18.0,13,25.5,-,43,1,,True,4.47,187.53,20h48m,1h24m,1.65
+16,NGC 6281,NGC 6281,Cluster Nebulosity,Scorpius,5.4,60.0,17,4.8,-,37,54,,True,0.69,146.45,23h37m,5h52m,6.12
+17,NGC 6383,NGC 6383,Cluster Nebulosity,Scorpius,5.5,80.0,17,34.8,-,32,34,,True,1.69,138.37,23h30m,6h59m,7.23
+18,NGC 6604,NGC 6604,Cluster Nebulosity,Serpens,6.5,60.0,18,18.1,-,12,14,,True,11.01,117.71,22h38m,9h17m,9.53
+20,NGC 7023,NGC 7023,Cluster Nebulosity,Cepheus,7.0,18.0,21,0.5,+,68,10,,True,33.97,25.75,---,---,---
+21,NGC 7380,NGC 7380,Cluster Nebulosity,Cepheus,7.2,25.0,22,47.0,+,58,6,,True,18.62,25.15,---,---,---
+22,M8,NGC 6523 Lagoon Nebula,Diffuse Nebula,Sagittarius,6.0,90.0,18,3.8,-,24,23.0,"5,200",True,4.17,128.32,23h15m,8h12m,8.45
+23,M16,NGC 6611 Eagle Nebula Cluster,Diffuse Nebula,Serpens Claudia,6.4,7.0,18,18.8,-,13,47.0,"7,000",True,9.74,118.63,22h45m,9h11m,9.43
+24,M17,"NGC 6618 Omega, Swan, Horseshoe Nebula",Diffuse Nebula,Sagittarius,7.0,11.0,18,20.8,-,16,11.0,"5,000",True,7.68,119.87,22h56m,9h04m,9.32
+25,M24,NGC 6603 Milky Way Patch,Star Cloud,Sagittarius,4.6,90.0,18,18.4,-,18,25.0,"10,000",True,6.55,122.18,23h02m,8h50m,9.08
+26,M27,NGC 6853 Dumbbell Nebula,Planetary Nebula,Vulpecula,7.4,8.0,19,59.6,+,22,43.0,"1,250",True,16.43,73.83,22h05m,13h12m,13.45
+29,M81,NGC 3031 Bode¹s Galaxy,Spiral Galaxy,Ursa Major,6.9,21.0,9,55.6,+,69,4.0,"12,000,000",True,48.4,331.29,---,---,---
+30,M83,NGC 5236 Southern Pinwheel Galaxy,Spiral Galaxy,Hydra,7.6,11.0,13,37.0,-,29,52.0,"15,000,000",True,17.67,186.76,19h17m,3h17m,3.53
+31,M101,NGC 5457 Pinwheel Galaxy,Spiral Galaxy,Ursa Major,7.9,22.0,14,3.2,+,54,21.0,"27,000,000",True,77.81,357.18,---,---,---
+32,M104,NGC 4594 Sombrero Galaxy,Spiral Galaxy,Virgo,8.0,9.0,12,40.0,-,11,37.0,"50,000,000",True,32.62,205.48,16h59m,3h41m,3.93
