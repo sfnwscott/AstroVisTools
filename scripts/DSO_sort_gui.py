@@ -10,9 +10,6 @@ import tkinter as tk
 from tkinter import ttk
 #from termcolor import colored, cprint
 
-
-
-
 print("Make sure to open Stellarium with Remote Control plugin installed")
 
 type_dict = {'CN': 'Cluster Nebulosity', 'DS': 'Double Star', 'SG': 'Spiral Galaxy', 
@@ -171,24 +168,7 @@ class DSOsortApp(ctk.CTk):
         sep.pack(fill="x", padx=12, pady=(0, 6))
         return card
     
-    # angular size helpers
-    def _on_size_slide(self, *_):
-        """Update the display label when angular size entries change."""
-        try:
-            vmin = int(self.size_min_var.get())
-            vmax = int(self.size_max_var.get())
-            if vmin > vmax:
-                self.size_label.configure(text="⚠ Min > Max", text_color="orange")
-            else:
-                self.size_label.configure(text=f"{vmin}° — {vmax}°", text_color=None)
-        except tk.TclError:
-            self.size_label.configure(text="Invalid input", text_color="orange")
-            
-    def _size_text(self):
-        try:
-            return f"{int(self.size_min_var.get())}° — {int(self.size_max_var.get())}°"
-        except tk.TclError:
-            return "—"
+  
         
     # magnitude helper
     def _update_mag_label(self, *_):
@@ -287,7 +267,7 @@ class DSOsortApp(ctk.CTk):
         msg = f"Hemisphere: {hemi} | Size: {size_min:.1f}–{size_max:.1f}' | Maximum {max_mag} Magnitude |\n Types: {', '.join(selected_types)} |\n When: {dt_label}"
         self.status_label.configure(text=msg)
 
-        df = pd.read_csv('object_datasets/object_data_accurate.csv')
+        df = pd.read_csv('../data/processed/object_data_accurate.csv')
         # update planets' current magnitudes, sizes, and distances
         SS_magnitudes, SS_distances, SS_sizes = [], [], []
         for object in ['Mercury', 'Venus', 'Mars', 'Jupiter', 'Saturn', 'Uranus', 'Neptune', 'Moon']:
@@ -302,10 +282,6 @@ class DSOsortApp(ctk.CTk):
         self.df = df
 
         self.df = self.filter_objects_start()
-
-        # print('ls')
-        # print(self.df)
-
         
 
 
@@ -508,21 +484,9 @@ class DSOsortApp(ctk.CTk):
        
 
     def _load_demo(self):
-        #print('db')
-        #print(self.df.head(5).columns)
         for i in self.tree.get_children():
             self.tree.delete(i)
 
-        # demo_rows = [
-        #     ("M31 Andromeda", "Galaxy", "00h42m44s", "+41°16′9″", "3.4", "3.17", "19:52", "08:11"),
-        #     ("M42 Orion Nebula", "Nebula", "05h35m17s", "−05°23′28″", "4.0", "1.00", "20:31", "07:05"),
-        #     ("M45 Pleiades", "Open Cluster", "03h47m00s", "+24°07′00″", "1.6", "1.67", "18:40", "06:04"),
-        #     ("NGC 7009", "Planetary Nebula", "21h04m11s", "−11°21′48″", "8.0", "0.03", "22:18", "04:15"),
-        #     ("Albireo (β Cyg)", "Double Star", "19h30m43s", "+27°57′34″", "3.1", "—", "17:10", "02:42"),
-        #     ("Saturn", "Planet", "—", "—", "0.8", "—", "17:55", "01:10"),
-        #     ("C/2023 A3", "Comet", "—", "—", "6.5", "—", "20:10", "05:30"),
-        # ]
-        
         df_disp = self.df[["ObjectNum","Name","Type","Constellation",'Magnitude',"Size","Hours_Until_Set"]]
         df_z_scaled = df_disp.copy()
         df_z_scaled['Magnitude_Score'] = (df_z_scaled['Magnitude'] - df_z_scaled['Magnitude'].mean()) / df_z_scaled['Magnitude'].std()

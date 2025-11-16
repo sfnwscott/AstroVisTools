@@ -44,7 +44,8 @@ class StarPerspectiveGUI(ctk.CTk):
         self.minsize(980, 620)
 
         # load vis_objects
-        self.vis_objects = pd.read_csv('./dataset/vis_objects_set.csv')
+        vis_objects = pd.read_csv('data/processed/vis_objects_set.csv')
+        self.vis_objects = vis_objects
         self.vis_objects = self.vis_objects.iloc[:,1:] # drop row called Unnamed:0 with indices
 
         # ---- Root grid: 2 columns (left controls, right plots) ----
