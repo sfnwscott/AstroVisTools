@@ -1,7 +1,0 @@
-,ObjectNum,Name,Type,Constellation,Magnitude,Size,RAHour,RAMinute,DecSign,DecDeg,DecMinute,Distance (ly),Above_Horizon,Alt,Az,Rise,Set,Hours_Until_Set
-8,NGC 5128,NGC 5128,Galaxy,Centaurus,7.0,18.0,13,25.5,-,43,1,,True,4.41,187.93,20h59m,1h36m,1.62
-11,NGC 7023,NGC 7023,Cluster Nebulosity,Cepheus,7.0,18.0,21,0.5,+,68,10,,True,34.14,25.87,---,---,---
-12,M17,"NGC 6618 Omega, Swan, Horseshoe Nebula",Diffuse Nebula,Sagittarius,7.0,11.0,18,20.8,-,16,11.0,"5,000",True,8.03,120.27,23h08m,9h16m,9.28
-13,M27,NGC 6853 Dumbbell Nebula,Planetary Nebula,Vulpecula,7.4,8.0,19,59.6,+,22,43.0,"1,250",True,16.82,74.16,22h17m,13h24m,13.42
-14,M83,NGC 5236 Southern Pinwheel Galaxy,Spiral Galaxy,Hydra,7.6,11.0,13,37.0,-,29,52.0,"15,000,000",True,17.62,187.26,19h29m,3h29m,3.5
-15,M104,NGC 4594 Sombrero Galaxy,Spiral Galaxy,Virgo,8.0,9.0,12,40.0,-,11,37.0,"50,000,000",True,32.44,206.09,17h11m,3h53m,3.9

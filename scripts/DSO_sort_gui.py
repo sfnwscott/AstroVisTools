@@ -10,6 +10,9 @@ import tkinter as tk
 from tkinter import ttk
 #from termcolor import colored, cprint
 
+
+
+
 print("Make sure to open Stellarium with Remote Control plugin installed")
 
 type_dict = {'CN': 'Cluster Nebulosity', 'DS': 'Double Star', 'SG': 'Spiral Galaxy', 
@@ -168,7 +171,24 @@ class DSOsortApp(ctk.CTk):
         sep.pack(fill="x", padx=12, pady=(0, 6))
         return card
     
-  
+    # angular size helpers
+    def _on_size_slide(self, *_):
+        """Update the display label when angular size entries change."""
+        try:
+            vmin = int(self.size_min_var.get())
+            vmax = int(self.size_max_var.get())
+            if vmin > vmax:
+                self.size_label.configure(text="⚠ Min > Max", text_color="orange")
+            else:
+                self.size_label.configure(text=f"{vmin}° — {vmax}°", text_color=None)
+        except tk.TclError:
+            self.size_label.configure(text="Invalid input", text_color="orange")
+            
+    def _size_text(self):
+        try:
+            return f"{int(self.size_min_var.get())}° — {int(self.size_max_var.get())}°"
+        except tk.TclError:
+            return "—"
         
     # magnitude helper
     def _update_mag_label(self, *_):
@@ -267,7 +287,7 @@ class DSOsortApp(ctk.CTk):
         msg = f"Hemisphere: {hemi} | Size: {size_min:.1f}–{size_max:.1f}' | Maximum {max_mag} Magnitude |\n Types: {', '.join(selected_types)} |\n When: {dt_label}"
         self.status_label.configure(text=msg)
 
-        df = pd.read_csv('../data/processed/object_data_accurate.csv')
+        df = pd.read_csv('data/processed/object_data_accurate.csv')
         # update planets' current magnitudes, sizes, and distances
         SS_magnitudes, SS_distances, SS_sizes = [], [], []
         for object in ['Mercury', 'Venus', 'Mars', 'Jupiter', 'Saturn', 'Uranus', 'Neptune', 'Moon']:
@@ -367,7 +387,7 @@ class DSOsortApp(ctk.CTk):
 
         # calculate time until object sets
         diffs = []
-        print(s_after)
+      
         for time in list(df.Set):
             try:
                 time = time.split('h')
