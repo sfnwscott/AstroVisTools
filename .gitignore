@@ -4,3 +4,4 @@ data/data_saves/
 .gitattributes
 tests/
 venv/
+.DS_Store
