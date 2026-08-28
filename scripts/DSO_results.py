@@ -1,6 +1,10 @@
 import pandas as pd
 import os
 from tabulate import tabulate
+import sys
+from pathlib import Path
+
+sys.path.insert(0, str(Path(__file__).resolve().parents[1]))
 
 def show_past_results():
     print("Saved Results:")
